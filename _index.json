@@ -1,0 +1,252 @@
+[
+  {
+    "ID": "AcademiesTrust",
+    "Site Name": "Academies Trust",
+    "File": "AcademiesTrust.json"
+  },
+  {
+    "ID": "Ashurst",
+    "Site Name": "Ashurst",
+    "File": "Ashurst.json"
+  },
+  {
+    "ID": "AddenbrookesTreatmentCentre",
+    "Site Name": "Addenbrookes Treatment Centre",
+    "File": "AddenbrookesTreatmentCentre.json"
+  },
+  {
+    "ID": "BarnetHospital",
+    "Site Name": "Barnet Hospital",
+    "File": "BarnetHospital.json"
+  },
+  {
+    "ID": "BecketHouse",
+    "Site Name": "Becket House",
+    "File": "BecketHouse.json"
+  },
+  {
+    "ID": "CambridgeAssessmentCentre",
+    "Site Name": "Cambridge Assessment Centre",
+    "File": "CambridgeAssessmentCentre.json"
+  },
+  {
+    "ID": "MarshamStreet",
+    "Site Name": "Marsham Street",
+    "File": "MarshamStreet.json"
+  },
+  {
+    "ID": "MetPoliceSEL",
+    "Site Name": "Met Police SEL",
+    "File": "MetPoliceSEL.json"
+  },
+  {
+    "ID": "MetPoliceSTC",
+    "Site Name": "Met Police STC",
+    "File": "MetPoliceSTC.json"
+  },
+  {
+    "ID": "NationalArchives",
+    "Site Name": "National Archives",
+    "File": "NationalArchives.json"
+  },
+  {
+    "ID": "BroomfieldHospital",
+    "Site Name": "Broomfield Hospital",
+    "File": "BroomfieldHospital.json"
+  },
+  {
+    "ID": "CentralMiddlesexHospital",
+    "Site Name": "Central Middlesex Hospital",
+    "File": "CentralMiddlesexHospital.json"
+  },
+  {
+    "ID": "CliffordChance",
+    "Site Name": "Clifford Chance",
+    "File": "CliffordChance.json"
+  },
+  {
+    "ID": "CustomerServiceCentreStoke",
+    "Site Name": "Customer Service Centre Stoke",
+    "File": "CustomerServiceCentreStoke.json"
+  },
+  {
+    "ID": "EastburyCommunitySchool",
+    "Site Name": "Eastbury Community School",
+    "File": "EastburyCommunitySchool.json"
+  },
+  {
+    "ID": "EBRD",
+    "Site Name": "EBRD",
+    "File": "EBRD.json"
+  },
+  {
+    "ID": "ForestHillSchool",
+    "Site Name": "Forest Hill School",
+    "File": "ForestHillSchool.json"
+  },
+  {
+    "ID": "FrederickBremerSchool",
+    "Site Name": "Frederick Bremer School",
+    "File": "FrederickBremerSchool.json"
+  },
+  {
+    "ID": "GreaterManchesterPoliceAuthority",
+    "Site Name": "Greater Manchester Police Authority",
+    "File": "GreaterManchesterPoliceAuthority.json"
+  },
+  {
+    "ID": "GreenvaleSchool",
+    "Site Name": "Greenvale School",
+    "File": "GreenvaleSchool.json"
+  },
+  {
+    "ID": "DigitalTeamGeneral",
+    "Site Name": "Digital Team General",
+    "File": "DigitalTeamGeneral.json"
+  },
+  {
+    "ID": "HMCTS",
+    "Site Name": "HMCTS",
+    "File": "HMCTS.json"
+  },
+  {
+    "ID": "HMRC",
+    "Site Name": "HMRC",
+    "File": "HMRC.json"
+  },
+  {
+    "ID": "JohnRadcliffeHospital",
+    "Site Name": "John Radcliffe Hospital",
+    "File": "JohnRadcliffeHospital.json"
+  },
+  {
+    "ID": "JoRichardsonCommunitySchool",
+    "Site Name": "Jo Richardson Community School",
+    "File": "JoRichardsonCommunitySchool.json"
+  },
+  {
+    "ID": "KingsCollegeLondon",
+    "Site Name": "King's College London",
+    "File": "KingsCollegeLondon.json"
+  },
+  {
+    "ID": "LondonSchools",
+    "Site Name": "London Schools",
+    "File": "LondonSchools.json"
+  },
+  {
+    "ID": "MerseysideFireRescueService",
+    "Site Name": "Merseyside Fire & Rescue Service",
+    "File": "MerseysideFireRescueService.json"
+  },
+  {
+    "ID": "NationalOperationsCentre",
+    "Site Name": "National Operations Centre",
+    "File": "NationalOperationsCentre.json"
+  },
+  {
+    "ID": "NoelBaker",
+    "Site Name": "Noel Baker",
+    "File": "NoelBaker.json"
+  },
+  {
+    "ID": "NorthMiddlesexHospital",
+    "Site Name": "North Middlesex Hospital",
+    "File": "NorthMiddlesexHospital.json"
+  },
+  {
+    "ID": "PeterboroughSchools",
+    "Site Name": "Peterborough Schools",
+    "File": "PeterboroughSchools.json"
+  },
+  {
+    "ID": "PrendergastSchool",
+    "Site Name": "Prendergast School",
+    "File": "PrendergastSchool.json"
+  },
+  {
+    "ID": "QAH",
+    "Site Name": "QAH",
+    "File": "QAH.json"
+  },
+  {
+    "ID": "QEH",
+    "Site Name": "QEH",
+    "File": "QEH.json"
+  },
+  {
+    "ID": "RHCYP",
+    "Site Name": "RHCYP",
+    "File": "RHCYP.json"
+  },
+  {
+    "ID": "KentOffice",
+    "Site Name": "Kent Office",
+    "File": "KentOffice.json"
+  },
+  {
+    "ID": "SouthernWater",
+    "Site Name": "Southern Water",
+    "File": "SouthernWater.json"
+  },
+  {
+    "ID": "SouthmeadHospital",
+    "Site Name": "Southmead Hospital",
+    "File": "SouthmeadHospital.json"
+  },
+  {
+    "ID": "SSCMediaCity",
+    "Site Name": "SSC Media City",
+    "File": "SSCMediaCity.json"
+  },
+  {
+    "ID": "SWBH",
+    "Site Name": "SWBH",
+    "File": "SWBH.json"
+  },
+  {
+    "ID": "TheBodyShop",
+    "Site Name": "The Body Shop",
+    "File": "TheBodyShop.json"
+  },
+  {
+    "ID": "TWFR",
+    "Site Name": "TWFR",
+    "File": "TWFR.json"
+  },
+  {
+    "ID": "UniversityHospitalLewisham",
+    "Site Name": "University Hospital Lewisham",
+    "File": "UniversityHospitalLewisham.json"
+  },
+  {
+    "ID": "UniversityofEssex",
+    "Site Name": "University of Essex",
+    "File": "UniversityofEssex.json"
+  },
+  {
+    "ID": "UniversityOfBrighton",
+    "Site Name": "University Of Brighton",
+    "File": "UniversityOfBrighton.json"
+  },
+  {
+    "ID": "UniOfWestLondon",
+    "Site Name": "Uni Of West London",
+    "File": "UniOfWestLondon.json"
+  },
+  {
+    "ID": "VictoriaHospitalKirkcaldy",
+    "Site Name": "Victoria Hospital Kirkcaldy",
+    "File": "VictoriaHospitalKirkcaldy.json"
+  },
+  {
+    "ID": "WestMiddlesexHospital",
+    "Site Name": "West Middlesex Hospital",
+    "File": "WestMiddlesexHospital.json"
+  },
+  {
+    "ID": "WRH",
+    "Site Name": "WRH",
+    "File": "WRH.json"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "ID": "AcademiesTrust",
+    "Site Name": "Academies Trust",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "Ashurst",
+    "Site Name": "Ashurst",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "AddenbrookesTreatmentCentre",
+    "Site Name": "Addenbrookes Treatment Centre",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "BarnetHospital",
+    "Site Name": "Barnet Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "BecketHouse",
+    "Site Name": "Becket House",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "CambridgeAssessmentCentre",
+    "Site Name": "Cambridge Assessment Centre",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "MarshamStreet",
+    "Site Name": "Marsham Street",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "MetPoliceSEL",
+    "Site Name": "Met Police SEL",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "MetPoliceSTC",
+    "Site Name": "Met Police STC",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "NationalArchives",
+    "Site Name": "National Archives",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "BroomfieldHospital",
+    "Site Name": "Broomfield Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "CentralMiddlesexHospital",
+    "Site Name": "Central Middlesex Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "CliffordChance",
+    "Site Name": "Clifford Chance",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "CustomerServiceCentreStoke",
+    "Site Name": "Customer Service Centre Stoke",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "EastburyCommunitySchool",
+    "Site Name": "Eastbury Community School",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "EBRD",
+    "Site Name": "EBRD",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "ForestHillSchool",
+    "Site Name": "Forest Hill School",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "FrederickBremerSchool",
+    "Site Name": "Frederick Bremer School",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "GreaterManchesterPoliceAuthority",
+    "Site Name": "Greater Manchester Police Authority",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "GreenvaleSchool",
+    "Site Name": "Greenvale School",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "DigitalTeamGeneral",
+    "Site Name": "Digital Team General",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "HMCTS",
+    "Site Name": "HMCTS",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "HMRC",
+    "Site Name": "HMRC",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "JohnRadcliffeHospital",
+    "Site Name": "John Radcliffe Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "JoRichardsonCommunitySchool",
+    "Site Name": "Jo Richardson Community School",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "KingsCollegeLondon",
+    "Site Name": "King's College London",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "LondonSchools",
+    "Site Name": "London Schools",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "MerseysideFireRescueService",
+    "Site Name": "Merseyside Fire & Rescue Service",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "NationalOperationsCentre",
+    "Site Name": "National Operations Centre",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "NoelBaker",
+    "Site Name": "Noel Baker",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "NorthMiddlesexHospital",
+    "Site Name": "North Middlesex Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "PeterboroughSchools",
+    "Site Name": "Peterborough Schools",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "PrendergastSchool",
+    "Site Name": "Prendergast School",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "QAH",
+    "Site Name": "QAH",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "QEH",
+    "Site Name": "QEH",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "RHCYP",
+    "Site Name": "RHCYP",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "KentOffice",
+    "Site Name": "Kent Office",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "SouthernWater",
+    "Site Name": "Southern Water",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "SouthmeadHospital",
+    "Site Name": "Southmead Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "SSCMediaCity",
+    "Site Name": "SSC Media City",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "SWBH",
+    "Site Name": "SWBH",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "TheBodyShop",
+    "Site Name": "The Body Shop",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "TWFR",
+    "Site Name": "TWFR",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "UniversityHospitalLewisham",
+    "Site Name": "University Hospital Lewisham",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "UniversityofEssex",
+    "Site Name": "University of Essex",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "UniversityOfBrighton",
+    "Site Name": "University Of Brighton",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "UniOfWestLondon",
+    "Site Name": "Uni Of West London",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "VictoriaHospitalKirkcaldy",
+    "Site Name": "Victoria Hospital Kirkcaldy",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "WestMiddlesexHospital",
+    "Site Name": "West Middlesex Hospital",
+    "Local Creative Key": ""
+  },
+  {
+    "ID": "WRH",
+    "Site Name": "WRH",
+    "Local Creative Key": ""
+  }
+]
